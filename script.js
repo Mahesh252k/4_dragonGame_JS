@@ -80,8 +80,7 @@ const locations = [
     name: "win", 
     "button text": ["REPLAY?", "REPLAY?", "REPLAY?"], 
     "button functions": [restart, restart, restart], 
-    text: "You defeat the dragon! YOU WIN THE GAME! &#x1F389;" 
-  },
+    text: "You defeat the dragon! YOU WIN THE GAME! &#x1F389;" },
   {
     name: "easter egg",
     "button text": ["2", "8", "Go to town square?"],
